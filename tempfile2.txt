@@ -1,0 +1,23 @@
+commit dcf923780cf00bded8b1645e8463873fdf1de291
+Author: John Ney <john.ney@duke.edu>
+Date:   Fri Dec 7 18:15:08 2012 -0500
+
+    Revert "Rearrange the items to bring on an outdoor trip"
+
+    This reverts commit 27190516b9139f26864ab8fed4d5cec4e9a3ae88.
+
+commit 27190516b9139f26864ab8fed4d5cec4e9a3ae88
+Author: John Ney <john.ney@duke.edu>
+Date:   Fri Dec 7 16:22:32 2012 -0500
+
+    Rearrange the items to bring on an outdoor trip
+
+commit c848084853c171536d9cb85d6a0848bffd6af58c
+Author: John Ney <john.ney@duke.edu>
+Date:   Fri Dec 7 07:48:34 2012 -0500
+
+    Remove contractions from contact page text
+
+commit f970f9137d2677d0b019321c75a30a01a6cfacc1
+Author: John Ney <john.ney@duke.edu>
+Date:   Fri Dec 7 07:48:19 2012 -0500
